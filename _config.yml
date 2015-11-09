@@ -1,0 +1,14 @@
+layout_spectrum: 0.3510638
+color:
+  saturation: 0.1531915
+  brandStrength: 0.5425532
+  lightness: 0.2680851
+  brandColors:
+    - '#FFFFFF'
+    - '#8C0000'
+    - '#CE9292'
+    - '#E1BDBD'
+    - '#BA6565'
+  rhythmicContrast: 0.5723404
+typography_spectrum: 0.506383
+name: 24HourRestoration.com
