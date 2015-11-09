@@ -1,12 +1,12 @@
 ---
 description: ''
 author: []
-datePublished: '2015-11-09T21:10:05.911Z'
+datePublished: '2015-11-09T21:10:19.832Z'
 publisher:
   domain: ''
   name: ''
 title: Marked and unmarked emergency response
-dateModified: '2015-11-09T07:01:02.427Z'
+dateModified: '2015-11-09T21:10:05.911Z'
 sourcePath: _posts/2015-11-09-marked-and-unmarked-emergency-response.md
 published: true
 inFeed: true
