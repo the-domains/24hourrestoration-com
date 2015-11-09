@@ -1,12 +1,12 @@
 ---
 description: ''
 author: []
-datePublished: '2015-11-09T21:10:30.784Z'
+datePublished: '2015-11-09T21:10:48.255Z'
 publisher:
   domain: ''
   name: ''
 title: Rebuilding the stair landing after a severe water damage
-dateModified: '2015-11-09T07:08:23.333Z'
+dateModified: '2015-11-09T21:10:30.784Z'
 sourcePath: _posts/2015-11-09-rebuilding-the-stair-landing-after-a-severe-water-damage.md
 published: true
 inFeed: true
