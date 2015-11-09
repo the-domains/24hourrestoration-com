@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[24HourRestoration.com]]></title>
+        <description><![CDATA[24HourRestoration.com]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 09 Nov 2015 21:10:45 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Marked and unmarked emergency response]]></title>
+            <description><![CDATA[<article><h1>Marked and unmarked emergency response</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/24a6858f-f174-4b3b-99af-4d6a04f88c77.png"></article>]]></description>
+            <link>undefinedmarked-and-unmarked-emergency-response/index.html</link>
+            <guid isPermaLink="false">7af2811b-3073-4af6-81cc-7521db7fe1ba</guid>
+            <pubDate>Mon, 09 Nov 2015 21:10:05 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
